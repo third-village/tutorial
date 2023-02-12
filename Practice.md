@@ -11,4 +11,4 @@ let x = 1;
 [初音ミク公式Twitter](https://twitter.com/cfm_miku)
 
 >マツマルカズキは世界一
->- Mayuko A.
+> by Mayuko A.
